@@ -14,4 +14,7 @@ where
 - A is a linear mapping. In other words, the null space of matrix $A$ defines the region of the input space that maps to zero.
 
 
+In each layer of a neural network, there is a matrix multiplication followed by passing through an activation function. Each of these weight matrices has a null space, some of which may be empty. However, any weight matrix that has more inputs than outputs has a non-empty null space. Most deep learning models also have this property, meaning that the number of inputs to them is greater than their outputs.
+
+
 
