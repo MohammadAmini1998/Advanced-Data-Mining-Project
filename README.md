@@ -25,7 +25,7 @@ $P(W) = C(W)^T C(W)$
 where
 - $x$ is the input
 - $W$ is the weight matrix of the neural network
-- $P(W)$ is 
+- $C(W)$ represents the column space basis of the matrix $W$
 
 
 
