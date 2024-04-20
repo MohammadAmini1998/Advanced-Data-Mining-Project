@@ -30,7 +30,7 @@ where
 We can encode the outlier detection into a network by directly incorporating the NuSA
 calculation into the loss function used for training: 
 $NuSA = \lambda \sum_{l \in L} \frac{\left\|P(W_l) \cdot x_l\right\|}{\left\|x_l\right\|}$
-# Dataset
+## Dataset
 
 
 
