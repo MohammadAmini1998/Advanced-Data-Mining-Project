@@ -1,6 +1,7 @@
 # Outlier Detection through Null Space Analysis of Neural Networks
 
-This project implements the outlier detection method described in the paper "Outlier Detection through Null Space Analysis of Neural Networks" by Matthew Cook, Alina Zare, Paul Gader. The method is based on leveraging the null space of neural networks to detect outliers in high-dimensional data.
+This project implements the outlier detection method described in the paper ["Outlier Detection through Null Space Analysis of Neural Networks"](https://arxiv.org/pdf/2007.01263.pdf) by Matthew Cook, Alina Zare, Paul Gader. The method is based on leveraging the null space of neural networks to detect outliers in high-dimensional data.
+
 
 ### Paper Overview
 
