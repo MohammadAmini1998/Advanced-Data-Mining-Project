@@ -32,7 +32,7 @@ calculation into the loss function used for training:
 $NuSA = \lambda \sum_{l \in L} \frac{\left\|P(W_l) \cdot x_l\right\|}{\left\|x_l\right\|}$
 
 For more details about the paper, please read the [original paper](https://arxiv.org/pdf/2007.01263.pdf).
-## Dataset
+### Dataset
 The dataset used for this paper is CIFAR-10, which is an established computer vision dataset used for object recognition. It is a subset of the 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10 object classes, with 6000 images per class. It was collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. You can find the dataset [here](https://www.kaggle.com/c/cifar-10/).
 
 
