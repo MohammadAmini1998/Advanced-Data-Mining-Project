@@ -27,6 +27,9 @@ where
 - $W$ is the weight matrix of the neural network
 - $C(W)$ represents the column space basis of the matrix $W$
 
+We can encode the outlier detection into a network by directly incorporating the NuSA
+calculation into the loss function used for training. 
+
 
 
 
