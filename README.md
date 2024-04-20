@@ -37,6 +37,7 @@ The dataset used for this paper is CIFAR-10, which is an established computer vi
 
 ### Results 
 The result of the implementation is a comparison of classification performance with and without NuSA. All hyperparameters are set as described in the paper.
+![Capture](https://github.com/MohammadAmini1998/Advanced-Data-Mining-Project/assets/49214384/f5214ff9-f8f4-43dc-a377-bd4264a8f047)
 
 
 
