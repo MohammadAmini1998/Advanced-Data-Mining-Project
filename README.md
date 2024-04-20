@@ -20,9 +20,11 @@ In order to accomplish this, we define the Null Space Analysis (NuSA) Term which
 projecting onto the span of the column space: 
 
 $NuSA = \frac{\left\|P(W) \cdot x\right\|}{\left\|x\right\|}$
+$P(W) = C(W)^T C(W)$
 where
 - $x$ is the input
 - $W$ is the weight matrix of the neural network
+- $P(W)$ is 
 
 
 
