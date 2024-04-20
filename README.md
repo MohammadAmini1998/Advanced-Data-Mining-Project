@@ -16,5 +16,14 @@ where
 
 In each layer of a neural network, there is a matrix multiplication followed by passing through an activation function. Each of these weight matrices has a null space, some of which may be empty. However, any weight matrix that has more inputs than outputs has a non-empty null space. Most deep learning models also have this property, meaning that the number of inputs to them is greater than their outputs.
 
+In order to accomplish this, we define the Null Space Analysis (NuSA) Term which computes the magnitude of the
+projecting onto the span of the column space: 
+
+$NuSA = \frac{kP(W) \cdot x}{\|x\|_k \cdot \|x\|_k}$
+
+
+
+
+
 
 
