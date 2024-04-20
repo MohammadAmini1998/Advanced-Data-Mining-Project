@@ -10,7 +10,8 @@ Null space of a matrix is defined as:
 
 $N(A) = \{z \in \mathbb{R}^n | Az = 0\}$
 
-
+where 
+- A is a linear mapping. In other words, the null space of matrix $A$ defines the region of the input space that maps to zero.
 
 
 
