@@ -19,7 +19,7 @@ In each layer of a neural network, there is a matrix multiplication followed by 
 In order to accomplish this, we define the Null Space Analysis (NuSA) Term which computes the magnitude of the
 projecting onto the span of the column space: 
 
-$NuSA = \frac{kP(W) \cdot x}{\|x\|_k \cdot \|x\|_k}$
+$NuSA = \frac{||P(W) \cdot x||}{\||x\||\}$
 
 
 
