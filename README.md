@@ -52,6 +52,8 @@ I welcome contributions, feedback, and suggestions for improvement! If you have 
 
 Let's continue exploring the exciting possibilities of Machine Learning together! 🚀
 
+By the way, If you find this project helpful or interesting, please star the repository to show your support! <img src="https://github.com/MohammadAmini1998/MohammadAmini1998/assets/49214384/51261e26-5869-4450-bf43-8f19aacce80d" alt="512" width="50" height="50">
+
 
 
 
